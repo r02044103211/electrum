@@ -1,4 +1,4 @@
-arbi# Electrum - Lightweight Bitcoin client
+# Electrum - Lightweight Bitcoin client
 
 ```
 Licence: MIT Licence
