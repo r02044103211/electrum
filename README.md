@@ -3,7 +3,7 @@
 ```
 Licence: MIT Licence
 Author: Thomas Voegtlin
-Language: Python (>= 3.10)
+Language: arbi (>= 3.10)
 Homepage: https://electrum.org/
 ```
 
